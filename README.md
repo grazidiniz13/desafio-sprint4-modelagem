@@ -7,7 +7,7 @@ Este repositório apresenta a entrega da **Sprint 4** de Modelagem de Banco de D
 ## 📋 Sumário dos Critérios Atendidos
 
 ### 1. Introdução
-* **Resumo do Projeto**: Este projeto dá continuidade à modelagem relacional estruturada na Sprint 3, realizando a migração e implementação completa do modelo lógico para um ambiente de banco de dados relacional robusto utilizando o **PostgreSQL**[cite: 1]. O foco desta etapa recai sobre a otimização de performance, segurança transacional (ACID) e controle estrito de acesso aos dados.
+* **Resumo do Projeto**: Este projeto dá continuidade à modelagem relacional estruturada na Sprint 3, realizando a migração e implementação completa do modelo lógico para um ambiente de banco de dados relacional robusto utilizando o **PostgreSQL**. O foco desta etapa recai sobre a otimização de performance, segurança transacional (ACID) e controle estrito de acesso aos dados.
 
 ### 2. Justificativa dos Tipos de Dados
 * **`INT GENERATED ALWAYS AS IDENTITY`**: Utilizado nas chaves primárias para garantir a geração automática e segura de identificadores únicos, impedindo inserções manuais indevidas[cite: 1].
