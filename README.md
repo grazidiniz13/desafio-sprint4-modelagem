@@ -1,6 +1,6 @@
 # 🚀 Projeto de Modelagem Física, Otimização e Segurança - Sprint 4
 
-Este repositório apresenta a entrega da **Sprint 4** de Modelagem de Banco de Dados, focando na implementação física da modelagem desenvolvida anteriormente[cite: 1].
+Este repositório apresenta a entrega da **Sprint 4** de Modelagem de Banco de Dados, focando na implementação física da modelagem desenvolvida anteriormente.
 
 ---
 
